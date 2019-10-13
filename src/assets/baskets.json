@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Shopping Basket 1:",
+      "items" : ["1 16lb bag of Skittles at 16.00" , "1 Walkman at 99.99", "1 bag of microwave Popcorn at 0.99" ]
+    },
+    {
+      "name": "Shopping Basket 2:",
+      "items" : ["1 imported bag of Vanilla-Hazelnut Coffee at 11.00" , "1 Imported Vespa at 15001.25"]
+    },
+    {
+      "name": "Shopping Basket 3:",
+      "items" : ["1 imported crate of Almond Snickers at 75.99" , "1 Discman at 55.00", "1 Imported Bottle of Wine at 10.00", "1 300# bag of Fair-Trade Coffee at 997.99"]
+    }
+  ]

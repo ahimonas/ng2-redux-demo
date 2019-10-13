@@ -1,0 +1,18 @@
+<h1>
+  {{title}}
+</h1>
+
+<div class="basket-input" *ngFor="let row of init | async">
+  <div>{{row.name}}</div>
+  <div>{{row.items}}</div>
+</div>
+
+<h2>
+  Results
+</h2>
+
+<div>
+  <div *ngFor="let item of baskets | async">{{item}}</div>
+</div>
+
+<button (click)="calculate()">CALCULATE</button>
